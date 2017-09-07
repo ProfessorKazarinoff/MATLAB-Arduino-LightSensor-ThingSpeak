@@ -10,6 +10,12 @@ We had to complete the following tasks to achieve our final goal:
 4.	Modify the codes to:
   1.	Measure the amount of light in real time, within the time limit set by the user.
   2.	Record the data, and produce a plot of light sensor vs. time
+  
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
 
 
 ## Hardware Setup
