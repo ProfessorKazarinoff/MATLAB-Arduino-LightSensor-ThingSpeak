@@ -4,8 +4,8 @@ clc, clear
 %% Define ThingSpeak channel and write API key
 delete(instrfindall);
 
-ThingSpeak_channel = '325023';      % Set ThingSpeak Channel
-Write_API_Key = 'GZWUL9NFMPGKR5UU'; % Set Write_API_Key
+ThingSpeak_channel = 'XXXXXX';      % Set ThingSpeak Channel
+Write_API_Key = 'XXXXXXXXXXXXXXXX'; % Set Write_API_Key
 a = serial('COM3'); % connect to the arduino in order to read information. Check the Port to ensure the arduino is connected.
 fopen(a);           % Open data from arduino
 
