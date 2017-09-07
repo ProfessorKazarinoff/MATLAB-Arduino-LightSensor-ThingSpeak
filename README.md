@@ -42,7 +42,8 @@ The [MATLAB_code.m](MATLAB_code.m) script was run in MATLAB. The serial Port had
 At the top of the code, the ThingSpeak Channel Number and ThingSpeak Write API key need to be defined. Fill in the values appropriate to your individual ThingSpeak Channel. The sample channel can be viewed at : https://thingspeak.com/channels/325023
 
 ```
-
+ThingSpeak_channel = 'XXXXXX';      % Set ThingSpeak Channel
+Write_API_Key = 'XXXXXXXXXXXXXXXX'; % Set Write_API_Key
 ```
 
 ## Results
