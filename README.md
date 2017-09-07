@@ -31,7 +31,7 @@ We had to complete the following tasks to achieve our final goal:
 ![Alt Name](/doc/fritzing_diagram.png)
 
 ### Connected Hardware
-![Alt Name](/doc/connected_hardware.png)
+![Alt Name](/doc/connected_hardware.jpg)
 
 ## Arduino Code
 The [Arduino_code.ino](Arduino_code.ino) sketch was uploaded on the Arduino using the Arduino IDE
