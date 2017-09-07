@@ -4,18 +4,12 @@ A student project completed in ENGR114 at Portland Community College, Summer 201
 ## Problem Statement
 The team was required to build the hardware and code to control a Light Sensor to help determine when to turn on the glow light in a fish tank water.
 We had to complete the following tasks to achieve our final goal:
-1.	Build the hardware.
-2.	Connect the hardware to Arduino.
-3.	Read the Arduino code in MATLAB.
-4.	Modify the codes to:
-  1.	Measure the amount of light in real time, within the time limit set by the user.
-  2.	Record the data, and produce a plot of light sensor vs. time
-  
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
+1. Build the hardware.
+1. Connect the hardware to Arduino.
+1. Read the Arduino code in MATLAB.
+1. Modify the codes to:
+   1. Measure the amount of light in real time, within the time limit set by the user.
+   1. Record the data, and produce a plot of light sensor vs. time
 
 
 ## Hardware Setup
