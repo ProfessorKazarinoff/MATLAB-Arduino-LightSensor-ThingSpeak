@@ -28,7 +28,8 @@ We had to complete the following tasks to achieve our final goal:
 |Mini-B USB cable|[SparkFun USB Mini-B Cable - 6 Foot](https://www.sparkfun.com/products/11301)|
 
 ### Fritzing Diagram
-![Alt Name](/doc/fritzing_light_sensor.png)
+![Alt Name](/doc/fritzing_diagram.png)
+
 ### Connected Hardware
 ![Alt Name](/doc/light_sensor_hardware.png)
 
