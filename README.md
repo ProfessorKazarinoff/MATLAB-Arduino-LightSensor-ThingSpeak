@@ -8,8 +8,8 @@ We had to complete the following tasks to achieve our final goal:
 2.	Connect the hardware to Arduino.
 3.	Read the Arduino code in MATLAB.
 4.	Modify the codes to:
-i.	Measure the amount of light in real time, within the time limit set by the user.
-ii.	Record the data, and produce a plot of light sensor vs. time
+  1.	Measure the amount of light in real time, within the time limit set by the user.
+  2.	Record the data, and produce a plot of light sensor vs. time
 
 
 ## Hardware Setup
