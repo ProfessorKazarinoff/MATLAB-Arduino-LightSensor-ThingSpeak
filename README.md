@@ -36,7 +36,7 @@ We had to complete the following tasks to achieve our final goal:
 The [Arduino_code.ino](Arduino_code.ino) sketch was uploaded on the Arduino using the Arduino IDE
 
 ## MATLAB Code
-The [light_sensor.m](light_sensor.m) script was run in MATLAB. The serial Port had to be the correct one in order for the MATLAB script to run. This was usually `'COM4'` and must be checked in the Windows Device Manager.
+The [MATLAB_code.m](MATLAB_code.m) script was run in MATLAB. The serial Port had to be the correct one in order for the MATLAB script to run. This was usually `'COM4'` and must be checked in the Windows Device Manager.
 
 ## Results
 ![Alt Name](/doc/LightSensorPlot.jpg)
