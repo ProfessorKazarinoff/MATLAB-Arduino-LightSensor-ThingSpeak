@@ -39,7 +39,7 @@ The [light_sensor.ino](light_sensor.ino) sketch was uploaded on the Arduino usin
 The [light_sensor.m](light_sensor.m) script was run in MATLAB. The serial Port had to be the correct one in order for the MATLAB script to run. This was usually `'COM4'` and must be checked in the Windows Device Manager.
 
 ## Results
-![Alt Name](/doc/light_sensor_plot.jpg)
+![Alt Name](/doc/LightSensorPlot.jpg)
 
 ## Future Work
 In the future teams that intend to carry out projects that are like ours can utilize our code, and improve the MATLAB code to plot at the same time when taking a data. They can also work on Arduino code to collect more accurate data which will help to observe and collect a detailed data. 
