@@ -3,6 +3,7 @@ A student project completed in ENGR114 at Portland Community College, Summer 201
 
 ## Problem Statement
 The team was required to build the hardware and code to control a Light Sensor to help determine when to turn on the glow light in a fish tank water.
+
 We had to complete the following tasks to achieve our final goal:
 1. Build the hardware.
 1. Connect the hardware to Arduino.
