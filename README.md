@@ -45,11 +45,10 @@ The [light_sensor.m](light_sensor.m) script was run in MATLAB. The serial Port h
 In the future teams that intend to carry out projects that are like ours can utilize our code, and improve the MATLAB code to plot at the same time when taking a data. They can also work on Arduino code to collect more accurate data which will help to observe and collect a detailed data. 
 
 The following resources are also helpful for them to startup the project:
-i.	https://github.com/ProfessorKazarinoff
-ii.	https://www.mathworks.com/discovery/arduino-programming-matlab-simulink.html
-iii.	https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v33?_ga=2.257738059.1328635895.1502830216-875794133.1502830216
-iv.	https://learn.adafruit.com/thermistor
-
+* https://github.com/ProfessorKazarinoff
+* https://www.mathworks.com/discovery/arduino-programming-matlab-simulink.html
+* https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v33?_ga=2.257738059.1328635895.1502830216-875794133.1502830216
+* https://learn.adafruit.com/thermistor
 
 ## License
 GNU General Public License v3.0
