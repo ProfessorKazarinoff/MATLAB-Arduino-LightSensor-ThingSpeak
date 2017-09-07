@@ -39,6 +39,12 @@ The [Arduino_code.ino](Arduino_code.ino) sketch was uploaded on the Arduino usin
 ## MATLAB Code
 The [MATLAB_code.m](MATLAB_code.m) script was run in MATLAB. The serial Port had to be the correct one in order for the MATLAB script to run. This was usually `'COM4'` and must be checked in the Windows Device Manager. This code will collect data formatted as a string over the light level for the course of that time using the connected Arduino Hardware.
 
+At the top of the code, the ThingSpeak Channel Number and ThingSpeak Write API key need to be defined. Fill in the values appropriate to your individual ThingSpeak Channel. The sample channel can be viewed at : 
+
+```
+
+```
+
 ## Results
 ![Alt Name](/doc/LightSensorPlot.jpg)
 
